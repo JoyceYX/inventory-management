@@ -6,8 +6,13 @@ export default {
     orders: '注文',
     finance: '財務',
     demandForecast: '需要予測',
+    reports: 'レポート',
+    backlog: 'バックログ',
     companyName: '触媒コンポーネンツ',
-    subtitle: '在庫管理システム'
+    subtitle: '在庫管理システム',
+    openMenu: 'メニューを開く',
+    collapseSidebar: 'サイドバーを折りたたむ',
+    expandSidebar: 'サイドバーを展開する'
   },
 
   // Dashboard
@@ -186,6 +191,11 @@ export default {
       trend: 'トレンド',
       period: '期間'
     }
+  },
+
+  // Reports
+  reports: {
+    title: 'パフォーマンスレポート'
   },
 
   // Filters

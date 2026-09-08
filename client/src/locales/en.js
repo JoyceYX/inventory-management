@@ -6,8 +6,13 @@ export default {
     orders: 'Orders',
     finance: 'Finance',
     demandForecast: 'Demand Forecast',
+    reports: 'Reports',
+    backlog: 'Backlog',
     companyName: 'Catalyst Components',
-    subtitle: 'Inventory Management System'
+    subtitle: 'Inventory Management System',
+    openMenu: 'Open menu',
+    collapseSidebar: 'Collapse sidebar',
+    expandSidebar: 'Expand sidebar'
   },
 
   // Dashboard
@@ -186,6 +191,11 @@ export default {
       trend: 'Trend',
       period: 'Period'
     }
+  },
+
+  // Reports
+  reports: {
+    title: 'Performance Reports'
   },
 
   // Filters
