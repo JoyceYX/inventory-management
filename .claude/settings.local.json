@@ -1,0 +1,8 @@
+{
+  "enabledMcpjsonServers": ["playwright", "github"],
+  "permissions": {
+    "allow": [
+      "PowerShell(Start-Process \"C:\\\\Users\\\\asus\\\\Projects\\\\inventory-management-main\\\\architecture.html\")"
+    ]
+  }
+}
