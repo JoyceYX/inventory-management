@@ -388,7 +388,7 @@ label {
 .task-input:focus,
 .task-select:focus {
   outline: none;
-  border-color: #667eea;
+  border-color: var(--color-brand);
 }
 
 .task-select {
@@ -398,7 +398,7 @@ label {
 
 .task-add-btn {
   padding: 0.75rem 1.75rem;
-  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+  background: linear-gradient(135deg, var(--color-brand) 0%, var(--color-brand-hover) 100%);
   color: white;
   border: none;
   border-radius: 8px;
@@ -486,7 +486,7 @@ label {
   width: 20px;
   height: 20px;
   cursor: pointer;
-  accent-color: #667eea;
+  accent-color: var(--color-brand);
   flex-shrink: 0;
 }
 
